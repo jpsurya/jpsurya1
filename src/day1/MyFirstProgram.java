@@ -7,8 +7,9 @@ public class MyFirstProgram {
 		
 	String firstName="Jp";
 	String secondName="kabil";
+	String thirdname="jayaprakash";
 	
- System.out.println(firstName+secondName);
+ System.out.println(firstName+secondName+thirdname);
 		
 
 	}
